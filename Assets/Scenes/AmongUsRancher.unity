@@ -358,8 +358,16 @@ PrefabInstance:
       value: purble mongus
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 96fdeca375ec41545a2bc96bcbebb8e9, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 96fdeca375ec41545a2bc96bcbebb8e9, type: 3}
       propertyPath: m_TagString
       value: Amongus
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: 96fdeca375ec41545a2bc96bcbebb8e9, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 96fdeca375ec41545a2bc96bcbebb8e9, type: 3}
@@ -602,7 +610,7 @@ GameObject:
   - component: {fileID: 223974227}
   - component: {fileID: 223974230}
   - component: {fileID: 223974229}
-  m_Layer: 0
+  m_Layer: 3
   m_Name: XR Origin
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -3336,8 +3344,16 @@ PrefabInstance:
       value: yellow mongus
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 3a4fbd550e3a75e4ab57fbc8b72e0a76, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 3a4fbd550e3a75e4ab57fbc8b72e0a76, type: 3}
       propertyPath: m_TagString
       value: Amongus
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: 3a4fbd550e3a75e4ab57fbc8b72e0a76, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 3a4fbd550e3a75e4ab57fbc8b72e0a76, type: 3}
@@ -3905,8 +3921,16 @@ PrefabInstance:
       value: onrge mongus
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 75fab62e1d36f9649b1cb8948522768d, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 75fab62e1d36f9649b1cb8948522768d, type: 3}
       propertyPath: m_TagString
       value: Amongus
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: 75fab62e1d36f9649b1cb8948522768d, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 75fab62e1d36f9649b1cb8948522768d, type: 3}
@@ -4954,8 +4978,16 @@ PrefabInstance:
       value: blue mongus
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b0cca656e292b404d82f7758ed7d3eb7, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: b0cca656e292b404d82f7758ed7d3eb7, type: 3}
       propertyPath: m_TagString
       value: Amongus
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: b0cca656e292b404d82f7758ed7d3eb7, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b0cca656e292b404d82f7758ed7d3eb7, type: 3}
@@ -5099,8 +5131,16 @@ PrefabInstance:
       value: red mongus
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 598760b533383f943b0c2fca0305945f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 598760b533383f943b0c2fca0305945f, type: 3}
       propertyPath: m_TagString
       value: Amongus
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: 598760b533383f943b0c2fca0305945f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 598760b533383f943b0c2fca0305945f, type: 3}
@@ -6968,7 +7008,7 @@ GameObject:
   - component: {fileID: 1925229995}
   - component: {fileID: 1925230000}
   - component: {fileID: 1925229999}
-  m_Layer: 0
+  m_Layer: 7
   m_Name: small mongus
   m_TagString: Amongus
   m_Icon: {fileID: 0}
@@ -7275,8 +7315,16 @@ PrefabInstance:
       value: pink mongus
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: f8c4052f590e6e047993c26d3e7a5e6f, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: f8c4052f590e6e047993c26d3e7a5e6f, type: 3}
       propertyPath: m_TagString
       value: Amongus
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: f8c4052f590e6e047993c26d3e7a5e6f, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f8c4052f590e6e047993c26d3e7a5e6f, type: 3}
@@ -7660,8 +7708,16 @@ PrefabInstance:
       value: green mongus
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: cf6434c43234eb146858f55d8f14dfe2, type: 3}
+      propertyPath: m_Layer
+      value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: cf6434c43234eb146858f55d8f14dfe2, type: 3}
       propertyPath: m_TagString
       value: Amongus
+      objectReference: {fileID: 0}
+    - target: {fileID: 8164078558771037576, guid: cf6434c43234eb146858f55d8f14dfe2, type: 3}
+      propertyPath: m_Layer
+      value: 7
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: cf6434c43234eb146858f55d8f14dfe2, type: 3}
@@ -7699,7 +7755,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: 0.00018310547, y: 0.000061035156}
+  m_AnchoredPosition: {x: 0.00018310547, y: 0.00012207031}
   m_SizeDelta: {x: 300, y: 100}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &1979325720
